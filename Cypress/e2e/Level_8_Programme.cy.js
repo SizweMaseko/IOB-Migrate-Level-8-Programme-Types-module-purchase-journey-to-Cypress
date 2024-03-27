@@ -22,3 +22,4 @@ describe('Level 8 Programme', () => {
       cy.get('.swiper-slide-next .programmes-card__top__header').click()
     })
   })
+  
